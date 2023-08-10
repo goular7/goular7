@@ -11,7 +11,7 @@
 ### <h2>  </h2>
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=goular7&theme=tokyo-night&color-bg=3D1365)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=goular7&theme=tokyo-night&color=3D1365)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### <h2>  </h2>
 <br>

@@ -11,8 +11,6 @@
 
 ### Languages and Tools
 
-<!-- https://github.com/Ileriayo/markdown-badges -->
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -37,47 +35,3 @@
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=goular7&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-Meu nome é Gustavo Goulart. Sou estudante de Sistemas de Informação na FIAP, 🤟 
-
-[![Gmail Badge](https://img.shields.io/badge/-xx@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xx@gmail.com)](mailto:xx@gmail.com)
-
-<p align="left">
-<code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>      
-<code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>   
-<code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>  
-<code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mongodb/mongodb.png"></code>
-<code><img height="20" alt="linux" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/linux/linux.png"></code>
-<code><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/docker/docker.png"></code>
-</p>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3D1365&height=120&section=header"/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3D1365&height=120&section=footer"/>
-
--->

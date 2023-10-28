@@ -1,8 +1,6 @@
-# Gustavo Goulart
- 
-Full Stack Developer & Devops
+### Full Stack Developer & Devops
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Goulart-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavogoulart1970/)](https://www.linkedin.com/in/gustavogoulart1970/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Goulart-981DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavogoulart1970/)](https://www.linkedin.com/in/gustavogoulart1970/) 
 
 #
 

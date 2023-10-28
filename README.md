@@ -1,8 +1,5 @@
-# Full Stack Developer & DevOps
+# Full Stack Developer & DevOps <br> [![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Goulart-981DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavogoulart1970/)](https://www.linkedin.com/in/gustavogoulart1970/) 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Goulart-981DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavogoulart1970/)](https://www.linkedin.com/in/gustavogoulart1970/) 
-
-#
 
 <div align="left">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=goular7&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Goulart github stats" /> 

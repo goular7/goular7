@@ -18,6 +18,8 @@
 ![React](https://img.shields.io/badge/react-%23404d59.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Go](https://img.shields.io/badge/go-%2320232a.svg?style=for-the-badge&logo=go&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-FF3961.svg?style=for-the-badge&logo=angular&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![AdvPL](https://img.shields.io/badge/advpl-%2320259a?style=for-the-badge&logo=advpl&logoColor=ffdd54)
 
 ![Linux](https://img.shields.io/badge/linux-%23ED5B00.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
